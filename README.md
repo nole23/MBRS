@@ -1,2 +1,1 @@
-# mbrs
-Metodologija Brzog Razvoja Softvera
+# Metodologija Brzog Razvoja Softvera
